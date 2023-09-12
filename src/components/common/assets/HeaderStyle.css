@@ -1,0 +1,4 @@
+.headerPage{
+    background: rgb(182,178,250);
+    background: linear-gradient(270deg, rgba(182,178,250,1) 0%, rgba(113,113,255,1) 18%, rgba(0,212,255,1) 100%);
+}
