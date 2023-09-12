@@ -6,7 +6,7 @@ import { HiSun } from "react-icons/hi2";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import "./assets/HeaderStyle.css";
 import SearchSuggest from "./SearchSuggest";
-import Home from "../../pages/home";
+// import Home from "../../pages/home";
 const Header = () => {
   /*// Search idea
      B1. Event Catch Input
