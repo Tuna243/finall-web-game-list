@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import GameDetail from "./pages/GameDetail";
 import Header from "./components/common/Header";
 import Footer from "./components/common/Footer";
